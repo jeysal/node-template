@@ -1,5 +1,7 @@
 # node-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jeysal/node-template.svg)](https://greenkeeper.io/)
+
 > Template for a node module with
 > [babel](https://babeljs.io/),
 > [documentation.js](http://documentation.js.org/),
