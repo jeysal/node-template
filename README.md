@@ -8,9 +8,9 @@
 > [jest](https://facebook.github.io/jest/) and
 > [prettier](https://github.com/prettier/prettier)
 
-[![build status](https://img.shields.io/travis/jeysal/node-template.svg?style=flat-square)](https://travis-ci.org/jeysal/node-template)
-[![AppVeyor build status](https://img.shields.io/appveyor/ci/jeysal/node-template.svg?style=flat-square&label=windows+build)](https://ci.appveyor.com/project/jeysal/node-template)
-[![code coverage](https://img.shields.io/codecov/c/github/jeysal/node-template.svg?style=flat-square)](https://codecov.io/gh/jeysal/node-template)
+[![build status](https://img.shields.io/travis/jeysal/node-template/master.svg?style=flat-square)](https://travis-ci.org/jeysal/node-template)
+[![AppVeyor build status](https://img.shields.io/appveyor/ci/jeysal/node-template/master.svg?style=flat-square&label=windows+build)](https://ci.appveyor.com/project/jeysal/node-template)
+[![code coverage](https://img.shields.io/codecov/c/github/jeysal/node-template/master.svg?style=flat-square)](https://codecov.io/gh/jeysal/node-template)
 
 [![npm package](https://img.shields.io/npm/v/node-template.svg?style=flat-square)](https://www.npmjs.com/package/node-template)
 [![license](https://img.shields.io/github/license/jeysal/node-template.svg?style=flat-square)](https://github.com/jeysal/node-template/blob/master/LICENSE)
