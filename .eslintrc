@@ -15,6 +15,7 @@
     "comma-dangle": ["error", "always-multiline"],
     "arrow-parens": ["error", "as-needed"],
     "wrap-iife": "off", // leave this to prettier
+    "function-paren-newline": "off", // leave this to prettier
     "no-restricted-syntax": "off",
     "prettier/prettier": ["error", {
       "singleQuote": true,
