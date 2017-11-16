@@ -21,7 +21,7 @@
   "license": "MIT",
   "scripts": {
     "clean": "rimraf coverage dist",
-    "check": "run-p lint typecheck test",
+    "all": "run-p lint typecheck test build",
     "lint": "eslint src test",
     "typecheck": "flow check",
     "test": "jest --coverage",

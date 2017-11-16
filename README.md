@@ -26,10 +26,12 @@ Remember to replace the package info in package.json & README.md.
 Relevant npm scripts are:
 
     npm run clean
+    npm run typecheck
+    npm run lint
     npm run fix
-    npm run t
-    npm run check
     npm run build
+    npm run test
+    npm run t
     npm run doc
 
 ## API
