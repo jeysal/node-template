@@ -32,9 +32,13 @@
     "postbuild": "run-p copymeta copyflow",
     "copymeta": "cp package.json LICENSE README.* dist",
     "copyflow": "flow-copy-source src dist --ignore '**/*.test.js'",
-    "prefix": "prettier --single-quote --trailing-comma all --write {src,test}/**/*.js",
+    "prefix": "prettier --write {src,test}/**/*.js",
     "fix": "eslint src test --fix",
     "doc": "documentation readme src/index.js --section=API"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
