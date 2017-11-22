@@ -1,5 +1,0 @@
-{
-  "coverageDirectory": "coverage",
-  "testEnvironment": "node",
-  "rootDir": "src"
-}
