@@ -1,10 +1,8 @@
 # node-template
 
-> Template for a node module with
-> [babel](https://babeljs.io/),
+> Template for a node module with [babel](https://babeljs.io/),
 > [documentation.js](http://documentation.js.org/),
-> [eslint](http://eslint.org/),
-> [flow](https://flow.org/),
+> [eslint](http://eslint.org/), [flow](https://flow.org/),
 > [jest](https://facebook.github.io/jest/) and
 > [prettier](https://github.com/prettier/prettier)
 
@@ -33,6 +31,10 @@ Says hello.
 
 **Parameters**
 
--   `name` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** Name to greet.
+* `name`
+  **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)**
+  Name to greet.
 
-Returns **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** The greeting.
+Returns
+**[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)**
+The greeting.
