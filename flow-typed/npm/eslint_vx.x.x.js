@@ -1,4 +1,4 @@
-// flow-typed signature: 3cc3d0600da3e22f420fb5293174ec97
+// flow-typed signature: 9b711be060372e18245d04713031b485
 // flow-typed version: <<STUB>>/eslint_v^4.3.0/flow_v0.59.0
 
 /**
@@ -383,6 +383,10 @@ declare module 'eslint/lib/rules/id-length' {
 }
 
 declare module 'eslint/lib/rules/id-match' {
+  declare module.exports: any;
+}
+
+declare module 'eslint/lib/rules/implicit-arrow-linebreak' {
   declare module.exports: any;
 }
 
@@ -1651,6 +1655,9 @@ declare module 'eslint/lib/rules/id-length.js' {
 }
 declare module 'eslint/lib/rules/id-match.js' {
   declare module.exports: $Exports<'eslint/lib/rules/id-match'>;
+}
+declare module 'eslint/lib/rules/implicit-arrow-linebreak.js' {
+  declare module.exports: $Exports<'eslint/lib/rules/implicit-arrow-linebreak'>;
 }
 declare module 'eslint/lib/rules/indent-legacy.js' {
   declare module.exports: $Exports<'eslint/lib/rules/indent-legacy'>;
