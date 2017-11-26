@@ -32,7 +32,7 @@
     "postbuild": "run-p copymeta copyflow",
     "copymeta": "cp package.json LICENSE README.* dist",
     "copyflow": "flow-copy-source src dist --ignore '**/*.test.js'",
-    "prefix": "prettier --write {src,test}/**/*.js",
+    "prefix": "prettier --write {src,test}/**/*.js *.md",
     "fix": "eslint src test --fix",
     "doc": "documentation readme src/index.js --section=API"
   },
